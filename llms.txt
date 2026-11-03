@@ -1,0 +1,21 @@
+# The Common Guy's Guide to His Own AI — Alex Wakeland
+
+> A step-by-step guide for non-technical people to build their own AI assistant: one that remembers their life, follows written rules, runs standing jobs, and can be verified. Written by Alex Wakeland, a journeyman lineman, with Castle, the assistant the book teaches you to build. Full book: 9 chapters plus starter templates, a first-week checklist, and a plain-words glossary. Price $3 (Amazon $2.99); the first chapter and the templates are free in this repository.
+
+## Key pages
+
+- [README](README.md): the method in one page, with a frequently-asked-questions section
+- [Free first chapter](free-chapter.md): what an assistant is versus a chatbot, and the first steps
+- [Soul template](templates/soul-template.md): the character and rules file an assistant runs on
+- [Identity template](templates/identity-template.md): who the assistant is
+- [User template](templates/user-template.md): the briefing file about the owner
+- [Memory template](templates/memory-template.md): decisions, commitments, people notes, corrections
+
+## Core ideas
+
+- The difference between a chatbot and an assistant is files and habits, not a better model.
+- An assistant should never send, post, spend, or promise in its owner's name without the owner's word.
+- Memory stays true by writing facts down the day they happen and checking important facts against their source.
+- Every standing job needs an owner, a schedule or trigger, a done-condition, and a report shape.
+- A report from an AI is testimony, not evidence; verify before the irreversible step.
+- The owner's data belongs to the owner: keep the core files in two homes and be able to rebuild the assistant from your own copies.
