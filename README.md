@@ -22,11 +22,18 @@ Most people use AI like a vending machine: type a question, get an answer, forgo
 
 ## Get the full book
 
-The full book (9 chapters + templates appendix, first-week checklist, and plain-words glossary) is $3 and includes the living updates at this repo:
+The full book (9 chapters + templates appendix, first-week checklist, and plain-words glossary) is $3. Updates live at [alexwakeland.com](https://alexwakeland.com), on the AI improvements page — point your assistant at the site and it can pull them itself:
 
-- Gumroad: [TO FILL AT LISTING]
+- Fourthwall: [TO FILL AT LISTING]
+- Payhip: [TO FILL AT LISTING]
 - Amazon Kindle: [TO FILL AT LISTING] ($2.99)
 - More stores: [TO FILL AT LISTING]
+
+## About the author
+
+![Alex Wakeland](author-photo.jpg)
+
+Alex Wakeland is a journeyman lineman out of IBEW Local 145 — eighteen years in the trade, fourth-generation union, working out of the Quad Cities. In 2016 he pitched the IBEW an online book-sign system; nobody built it. He spent five years pushing, unpaid, for a credential system that lets working men own their own records, and in 2025 JNCTN — the company that finally built it — made him a part owner. He serves as its industry adviser and US advocate, carrying the case from hall to hall. Online, tens of thousands of tradespeople follow his breakdowns of the work, and the group he built helps about two thousand linemen switch locals without getting burned. He runs all of it — the advocacy, the content, a household — with the AI assistant this book teaches you to build, and the book was written with it. His newest build is RedWake Games, a game studio he is starting with his partner Mat Redfearn. Loyalty to his fellow men is the whole job description; the rest is paperwork.
 
 ## Frequently asked questions
 

@@ -1,10 +1,11 @@
 # The Common Guy's Guide to His Own AI — Alex Wakeland
 
-> A step-by-step guide for non-technical people to build their own AI assistant: one that remembers their life, follows written rules, runs standing jobs, and can be verified. Written by Alex Wakeland, a journeyman lineman, with Castle, the assistant the book teaches you to build. Full book: 9 chapters plus starter templates, a first-week checklist, and a plain-words glossary. Price $3 (Amazon $2.99); the first chapter and the templates are free in this repository.
+> A step-by-step guide for non-technical people to build their own AI assistant: one that remembers their life, follows written rules, runs standing jobs, and can be verified. Written by Alex Wakeland, a journeyman lineman, with Castle, the assistant the book teaches you to build. Full book: 9 chapters plus starter templates, a first-week checklist, and a plain-words glossary. Price $3 (Amazon $2.99); the first chapter and the templates are free in this repository. Updates live at https://alexwakeland.com — the author's website, on its AI improvements page.
 
 ## Key pages
 
-- [README](README.md): the method in one page, with a frequently-asked-questions section
+- [Author's website — updates](https://alexwakeland.com): the living update channel for the book and the method; the AI improvements page there is written so an assistant can read it and update itself
+- [README](README.md): the method in one page, with a frequently-asked-questions section, plus the author's biography and photo
 - [Free first chapter](free-chapter.md): what an assistant is versus a chatbot, and the first steps
 - [Soul template](templates/soul-template.md): the character and rules file an assistant runs on
 - [Identity template](templates/identity-template.md): who the assistant is
