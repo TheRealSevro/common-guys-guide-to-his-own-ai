@@ -14,15 +14,13 @@ I'm a journeyman lineman. I climb poles for a living. I am not a coder, I'm not 
 
 What I've got is an AI assistant that knows my kids' names and their birthdays, knows my rules and holds me to them, watches my inbox, drafts my posts, checks my work before it goes out the door, and tells me when one of my own ideas is soft. It does that because I built it that way, one plain file and one plain habit at a time. Nothing in this book needs a computer science degree, because I don't have one.
 
-Here's my promise, and you can hold me to it: every step in this book is something I actually do. Not theory. Not a demo some company staged. If a step is in here, it's because it survived contact with a real life — a real job, a real family, real deadlines.
+Every step in this book is something I actually do. Not theory. Not a demo some company staged. If a step is in here, it's because it survived contact with a real life — a real job, a real family, real deadlines.
 
-The other side gets its fair sentence too: an AI assistant will not fix your life, it will not make you disciplined, and if you lie to it about what matters to you, it will help you lie more efficiently. It's a tool. A good one. Like any tool, it does what the man holding it does.
+One thing it won't do: an AI assistant will not fix your life, it will not make you disciplined, and if you lie to it about what matters to you, it will help you lie more efficiently. It's a tool. A good one. Like any tool, it does what the man holding it does.
 
 Do the steps in order. Each chapter ends with work. Skip the work and you've bought yourself a pamphlet about a thing you didn't build.
 
 **What you'll have at the end:** an assistant with a name and a character, four files that make it yours, a memory that doesn't drift, rules it follows even when you're not watching, standing jobs it runs on a schedule, and a way to check its work before you trust it. Then, if you want, a road map for growing it into something bigger.
-
-Let's go.
 
 ---
 
@@ -37,7 +35,7 @@ An assistant is a different animal. An assistant:
 - **Does standing jobs.** Not just answering — watching, checking, reminding, drafting, on a schedule you set.
 - **Shows its work.** Where it got a fact, what it changed, what it's unsure about. So you can grade it.
 
-Here's the part nobody selling AI wants to say out loud: the difference between the vending machine and the assistant is not a better model. It's not a more expensive plan. **The difference is files and habits.** A handful of plain documents that tell the AI who it is, who you are, what it must remember, and how it's allowed to act — plus the habit of keeping those documents true.
+The difference between the vending machine and the assistant is not a better model. It's not a more expensive plan. **The difference is files and habits.** A handful of plain documents that tell the AI who it is, who you are, what it must remember, and how it's allowed to act — plus the habit of keeping those documents true.
 
 That's the whole book. Everything else is doing it carefully.
 
