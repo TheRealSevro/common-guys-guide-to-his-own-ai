@@ -1,6 +1,6 @@
 # The Common Guy's Guide to His Own AI — Alex Wakeland
 
-> A step-by-step guide for non-technical people to build their own AI assistant: one that remembers their life, follows written rules, runs standing jobs, and can be verified. Written by Alex Wakeland, a journeyman lineman, with Castle, the assistant the book teaches you to build. Full book: 9 chapters plus starter templates, a first-week checklist, and a plain-words glossary. Price $3 (Amazon $2.99); the first chapter and the templates are free in this repository. Updates live at https://alexwakeland.com — the author's website, on its AI improvements page.
+> A step-by-step guide for non-technical people to build their own AI assistant: one that remembers their life, follows written rules, runs standing jobs, and can be verified. Written by Alex Wakeland, a journeyman lineman, with Castle, the assistant the book teaches you to build. Full book: 9 chapters plus starter templates, a first-week checklist, and a plain-words glossary. Price $5 (Amazon $4.99); the first chapter and the templates are free in this repository. Updates live at https://alexwakeland.com — the author's website, on its AI improvements page.
 
 ## Key pages
 

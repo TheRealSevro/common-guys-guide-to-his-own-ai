@@ -22,11 +22,11 @@ Most people use AI like a vending machine: type a question, get an answer, forgo
 
 ## Get the full book
 
-The full book (9 chapters + templates appendix, first-week checklist, and plain-words glossary) is $3. Updates live at [alexwakeland.com](https://alexwakeland.com), on the AI improvements page — point your assistant at the site and it can pull them itself:
+The full book (9 chapters + templates appendix, first-week checklist, and plain-words glossary) is $5. Updates live at [alexwakeland.com](https://alexwakeland.com), on the AI improvements page — point your assistant at the site and it can pull them itself:
 
 - Fourthwall: [TO FILL AT LISTING]
 - Payhip: [TO FILL AT LISTING]
-- Amazon Kindle: [TO FILL AT LISTING] ($2.99)
+- Amazon Kindle: [TO FILL AT LISTING] ($4.99)
 - More stores: [TO FILL AT LISTING]
 
 ## About the author
